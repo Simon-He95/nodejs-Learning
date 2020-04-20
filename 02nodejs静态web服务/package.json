@@ -1,0 +1,15 @@
+{
+  "name": "demo_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^1.0.4"
+  }
+}
